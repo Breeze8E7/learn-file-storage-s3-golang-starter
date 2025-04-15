@@ -1,5 +1,7 @@
 package main
 
+// The app is accessible at http://localhost:8091/app/
+
 import (
 	"log"
 	"net/http"
